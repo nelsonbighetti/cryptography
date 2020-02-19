@@ -1,6 +1,6 @@
 # cryptography
 
-#Usage:
+Usage:
 
 Encryption/Decryption: 
 
